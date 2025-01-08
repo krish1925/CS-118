@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c"
+    }
+}
